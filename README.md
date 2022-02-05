@@ -1,4 +1,4 @@
-# Sitcky-Cards.. but in react
+# Sticky-Cards.. but in react
 
 HTML and CSS (but react) to make a scrollable cardstack
 
